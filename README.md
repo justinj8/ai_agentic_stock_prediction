@@ -5,6 +5,7 @@ An AI agent-based pipeline for market overview, news & social sentiment, technic
 
 **Structure**  
 
+<pre>
 agentic_ai_system/
 ├── crewai.py
 ├── fetchers.py
@@ -24,6 +25,8 @@ agentic_ai_system/
 ├── fundamental_analysis_agent.py
 ├── day_trader_advisor_agent.py
 └── main.py
+</pre>
+
 
 **Getting Started**  
 
