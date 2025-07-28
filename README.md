@@ -40,5 +40,5 @@ agentic_ai_system/
    asyncio.run(run_market_overview())
    PYCODE
 
-# Or run this for a simpler process:
+##### Or run this for a simpler process:
 python main.py AAPL "Apple Inc"  # Change to any ticker #
